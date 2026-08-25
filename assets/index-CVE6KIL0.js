@@ -81,7 +81,6 @@
         <div class="source-chip"><span>${e.metadata.n}</span><small>beneficiarios</small></div>
       </div>
     </header>
-    <aside class="scope-note"><div><strong>Base única de beneficiarios</strong><span>Cada persona se cuenta una sola vez. Las atenciones múltiples se conservan en una tabla separada.</span></div><div><strong>Publicación agregada</strong><span>Las celdas menores de ${e.metadata.minimum_public_cell} casos están suprimidas o agrupadas.</span></div></aside>
     ${_()}
     ${v()}
     <main class="content" aria-live="polite">${I()}</main>
