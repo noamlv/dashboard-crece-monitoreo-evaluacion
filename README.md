@@ -1,6 +1,6 @@
 # Dashboard CRECE: monitoreo y evaluación
 
-Sitio estático para explorar el perfil de interseccionalidad de 163 beneficiarios únicos del Proyecto CRECE.
+Sitio estático para explorar el perfil de interseccionalidad de 177 beneficiarios únicos del Proyecto CRECE.
 
 Incluye caracterización sociodemográfica, intersecciones, vulneraciones y una sección comparativa para los resultados 1100 y 1200.
 
